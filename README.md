@@ -1,4 +1,3 @@
 - Hi, I’m Igor
 - Python, Kotlin, Java
 - Magistracy
-- In Europe. . .  
