@@ -1,3 +1,3 @@
 - Hi, I’m Igor
-- Python, Kotlin, Java
+- .py, .kt, .php, .html
 - Magistracy
