@@ -1,3 +1,3 @@
 - Hi, I’m Igor
-- .py, .kt, .php, .html
+- .py, .kt, .php
 - Magistracy
