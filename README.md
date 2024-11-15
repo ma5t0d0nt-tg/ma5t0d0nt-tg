@@ -2,8 +2,9 @@
   I'm Igor
 </h1>
 
-![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey)
-
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
 ## :computer: Technology Stack
 
@@ -18,22 +19,23 @@
 
 ## :chart_with_upwards_trend: GitHub Stats
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=ma5t0d0nt-tg&show_icons=true&count_private=true&theme=one_dark_pro" alt="GitHub Stats" />
-    </td>
-    <td>
-      <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ma5t0d0nt-tg&layout=compact">
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src = "https://github-readme-stats.vercel.app/api/pin/?username=ma5t0d0nt-tg&repo=TelegramAssistantBot&cache_seconds=86400&theme=noctis_minimus">
-    </td>
-  </tr>
-  
-</table>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=ma5t0d0nt-tg&show_icons=true&count_private=true&theme=one_dark_pro" alt="GitHub Stats"/>
+      </td>
+      <td>
+        <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ma5t0d0nt-tg&layout=compact&theme=one_dark_pro">
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ma5t0d0nt-tg&repo=TelegramAssistantBot&cache_seconds=86400&theme=one_dark_pro" width="100%">
+      </td>
+    </tr>
+  </table>
+</div>
 
 
 ## :link: Communication with Me
@@ -49,14 +51,17 @@
 
 ## :trophy: Github Awards
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-trophies.vercel.app/?username=ma5t0d0nt-tg&rank=SECRET,SSS,SS,S,AAA,AA&row=1&column=3&theme=gruvbox">
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-trophies.vercel.app/?username=ma5t0d0nt-tg&rank=SECRET,SSS,SS,S,AAA,AA&row=1&column=3&theme=gruvbox">
+      </td>
+    </tr>
+  </table>
+</div>
 
+<hr>
 
 <p align="center">
      <!--<a href="https://github.com/ma5t0d0nt-tg?tab=followers" target="_blank"><img alt="Updates" src="https://img.shields.io/badge/--000000?style=flat-square&logo=RSS&logoColor=white"></a>-->
