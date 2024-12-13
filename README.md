@@ -20,8 +20,6 @@
 
 # Created Project
 
-## Aiogram
-
 ### [Telegram Chat Bot](https://github.com/ma5t0d0nt-tg/Telegram-Chat-Bot/blob/master/README.md) 
 <p style="text-indent: 25px;">В функциях Telegram Premium появились возможности Telegram Business. Одной из таких функций стала возможность добавить 
 чат-бота в личные сообщения для быстрого общения и получения информации от клиента. 
@@ -30,11 +28,27 @@
 расширенные возможности для управления ботом в чате телеграмм может, с помощью команды, посмотреть ответы его новых
 собеседников, и решить, нужно ли ему отвечать в данном чате.</p>
 
-<p style="text-indent: 25px;"><ins>Общаться с ботом можно напрямую, но его возможности на данном этапе для простого пользователя ограничены.</ins></p>
+<p style="text-indent: 25px;"><ins>Общаться с ботом можно напрямую, но его возможности на данном этапе для простого 
+пользователя ограничены.
+</ins></p>
+<p style="text-indent: 25px;">Для простого пользователя, бот имеет такие команды, как:</p>
+<div>
+<li><b>/start</b> - бот отправит Вам приветственное сообщение от бота и информацию от него, какой работой он занимается;</li>
+</div>
+<div>
+<li><b>/author</b> - пришлет ссылку на аккаунт автора бота;</li>
+</div>
+<div>
+<li><b>/pic</b> - для сохранения авторских прав, выдаст ссылку на аватар бота;</li>
+</div>
+<div>
+<li><b>/description</b> - отправит более подробное описание бота.</li>
+</div>
+
 
 ### [Telegram Generate Password Bot](https://github.com/ma5t0d0nt-tg/TelegramGenerate_Password_Bot/blob/master/README.md) 
 <p style="text-indent: 25px;">Во многих современных браузерах есть встроенная функция, которая предлагает безопасный пароль из заглавных и прописных 
-букв, цифр и специальных символов при клике на поле для пароля. </p>
+букв, цифр и специальных символов при клике на поле для пароля.</p>
 
 <p style="text-indent: 25px;">Этот бот умеет больше, чем встроенные методы генерации пароля браузером:</p>
 
@@ -59,8 +73,14 @@
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 #### FrameWork
 ![Aiogram](https://img.shields.io/badge/-Aiogram-black?style=flat-square&logo=Aiogram)
+![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django)
+![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask)
 #### Libs
-
+![Requests](https://img.shields.io/badge/-Requests-black?style=flat-square&logo=requests)
+![NumPy](https://img.shields.io/badge/-NumPy-black?style=flat-square&logo=numpy)
+![SciPy](https://img.shields.io/badge/-SciPy-black?style=flat-square&logo=scipy)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-black?style=flat-square&logo=matplotlib)
+![Pillow](https://img.shields.io/badge/-Pillow-black?style=flat-square&logo=pillow)
 #### Data Bases
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
@@ -90,11 +110,12 @@
         <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ma5t0d0nt-tg&layout=compact&theme=one_dark_pro">
       </td>
     </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ma5t0d0nt-tg&repo=TelegramAssistantBot&cache_seconds=86400&theme=one_dark_pro" width="100%">
-      </td>
-    </tr>
+
+[//]: # (    <tr>)
+[//]: # (      <td colspan="2" align="center">)
+[//]: # (        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ma5t0d0nt-tg&repo=TelegramAssistantBot&cache_seconds=86400&theme=one_dark_pro" width="100%">)
+[//]: # (      </td>)
+[//]: # (    </tr>)
   </table>
 </div>
 
@@ -103,9 +124,11 @@
 <!-- START [S E C T I O N] Interesting Repositories for Me -->
 
 ## :open_file_folder: Interesting Repositories for Me
-* [TelegramDesktop](https://github.com/ma5t0d0nt-tg/TelegramDesktop) - Telegram Desktop messaging app
+* [Telegram Desktop](https://github.com/ma5t0d0nt-tg/TelegramDesktop) - Telegram Desktop messaging app
+* [Telegram Android](https://github.com/ma5t0d0nt-tg/Telegram) - Telegram for Android source
 * [GitIgnore](https://github.com/ma5t0d0nt-tg/gitignore) - A collection of useful .gitignore templates
 * [MarkDown Emoji](https://github.com/ma5t0d0nt-tg/markdown-emojis) - 🔥 All the emojis 🎉
+* [GitHub Profiles](https://github.com/ma5t0d0nt-tg/awesome-github-profile-readme) - A curated list of awesome GitHub Profile which updates in real time
 
 <!-- END [S E C T I O N] Interesting Repositories for Me -->
 
@@ -146,8 +169,10 @@
 <!-- START [S E C T I O N] count visits and date profile update -->
 
 <p align="center">
-    <a href="https://github.com/ma5t0d0nt-tg" target="_blank"><img alt="ma5t0d0nt-tg" src="https://badges.pufler.dev/visits/ma5t0d0nt-tg/ma5t0d0nt-tg?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
-    <a href="https://github.com/ma5t0d0nt-tg/ma5t0d0nt-tg" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/ma5t0d0nt-tg/ma5t0d0nt-tg?label=profile%20updated&style=flat-square"></a>
+    <a href="https://github.com/ma5t0d0nt-tg/ma5t0d0nt-tg" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/ma5t0d0nt-tg/ma5t0d0nt-tg?label=Profile%20Updated&style=flat-square"></a>
+</p>
+<p align="center">
+    <a href="https://github.com/ma5t0d0nt-tg" target="_blank"><img alt="ma5t0d0nt-tg" src="https://badges.pufler.dev/visits/ma5t0d0nt-tg/ma5t0d0nt-tg?logo=GitHub&label=Profile%20Visit&color=success&logoColor=white&style=flat-square"/></a>
 </p>
 
 <!-- END [S E C T I O N] count visits and date profile update -->
