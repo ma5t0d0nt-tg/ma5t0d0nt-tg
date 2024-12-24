@@ -20,11 +20,11 @@
 
 # Created Project
 
-### [Telegram Chat Bot](https://github.com/ma5t0d0nt-tg/Telegram-Chat-Bot/blob/master/README.md)
+### [Telegram-Chat-Bot](https://github.com/ma5t0d0nt-tg/Telegram-Chat-Bot/blob/master/README.md)
 
-Чат-Бот для личных чатов Telegram
+Чат-Бот для управления личными чатами Telegram
 
-### [Telegram Generate Password Bot](https://github.com/ma5t0d0nt-tg/TelegramGenerate_Password_Bot/blob/master/README.md)
+### [Telegram-Generate-Password-Bot](https://github.com/ma5t0d0nt-tg/TelegramGenerate_Password_Bot/blob/master/README.md)
 
 Бот для создание сложных паролей из заглавных, прописных, цифр и специальных символов
 
