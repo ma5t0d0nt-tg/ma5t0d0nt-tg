@@ -66,6 +66,10 @@
 
 > **Aiogram** — асинхронная библиотека для языка программирования Python, основанная на Telegram Bot API.
 
+[Chat-Bot](https://github.com/ma5t0d0nt-tg/Telegram-Chat-Bot/blob/master/README.md)
+
+[Generate-PassWord-Bot](https://github.com/ma5t0d0nt-tg/Telegram-Generate-Password-Bot/blob/master/README.md)
+
 ![PyQt](https://img.shields.io/badge/-PyQt-black?style=flat-square&logo=PyQt)
 
 > **PyQt** – это модуль, предназначенный для создания графических интерфейсов в Python через библиотеку Qt.
