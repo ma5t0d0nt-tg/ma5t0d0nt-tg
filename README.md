@@ -2,7 +2,6 @@
 
 <h1 align="center">
   Hello, I'm Igor 
-  [ :ru: , :hearts: , :bicyclist: , :iphone: , :x: :smoking: , :x: :syringe: ]
 </h1>
 
 <!-- END T E X T -->
